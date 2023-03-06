@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nahyan
 - 👀 I’m interested in HTML, CSS and JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on anything not too complicated, I still only know the basics
+- 💞️ I’m looking to collaborate on anything complicated or not
 - 📫 How to reach me nahyanl63@gmail.com
 
 <!---
